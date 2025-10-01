@@ -1,16 +1,15 @@
 # hello_world
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. praktikum 3
+![screnshoot hello_world](images/01.png)
+2. praktikum 4
+![screnshoot hello_world](images/02.png)
+![screnshoot logo_polinema](images/03.png)
+3. praktikum 5
+![screnshoot loading_curpertino](images/04.png)
+![screnshoot fab_widget](images/05.png)
+![screnshoot scaffold](images/06.png)
+![screnshoot dialog widget](images/07.png)
+![screnshoot input dan selection](images/08.png)
+![screnshoot date dan time](images/09.png)
